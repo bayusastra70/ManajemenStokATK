@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Lora&family=Poppins:ital,wght@0,400;0,700;1,400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kanit';
+}
+
+.navbarwarna *, .nav-link {
+    /* background-color:#288CFB ; */
+    /*  background-color:#AFC3FF ; */
+    color:#2B468B ;
+}
+
+
+hr {
+    color: #2B468B ;
+}
+
+.small {
+    width: 600px;
+    height: 550px;
+}
+
+.active {
+    /* color: #AFC3FF; */
+    color: #2B468B;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+li {
+    list-style-type: none;
+}
+
+#beranda {
+    margin-top: -20px;
+}
